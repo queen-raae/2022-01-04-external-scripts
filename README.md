@@ -1,6 +1,6 @@
-# Live Screencast Title
+# Third party scripts with Gatsby
 
-- [🔴 👩‍🏫 Watch the Live Screencast on YouTube](https://youtu.be/XXXX)
+- [🔴 👩‍🏫 Watch the Live Screencast on YouTube](https://youtu.be/Kldx6d5XBSE)
 
 ## A message from Queen [@raae](https://twitter.com/raae)
 

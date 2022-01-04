@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "gatsby";
 
 const IndexPage = () => {
   return (
@@ -8,12 +9,17 @@ const IndexPage = () => {
           <span role="img" aria-label="Red circle + women presenter emoji">
             🔴&nbsp;👩‍🏫&nbsp;
           </span>
-          Live Screencast Template
+          Third party scripts with Gatsby
           <span role="img" aria-label="Women presenter + red circle emoji">
             &nbsp;👩‍🏫&nbsp;🔴
           </span>
         </h1>
-        <p>A template for Live Screencasts...</p>
+        <p>Live Screencast · 2022-01-04</p>
+        <p>
+          <Link to="tweet-page-react-helmet">React Helmet Example</Link>
+          <br />
+          <Link to="tweet-page-create-element">Create Element Example</Link>
+        </p>
       </header>
     </main>
   );
